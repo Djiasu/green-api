@@ -21,3 +21,6 @@ idInstance и ApiTokenInstance
 Пользователь последовательно нажимает на кнопки «getSettings»,
 «sendMessage» и видит результат работы – сообщения отправляются, ответ
 методов отображается на странице.
+
+# URL
+https://codepen.io/Djiasu/pen/KwdpERL
